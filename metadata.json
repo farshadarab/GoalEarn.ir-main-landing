@@ -1,0 +1,6 @@
+{
+  "name": "GoalEarn.ir - مسیر اختصاصی آمادگی و پیشرفت در بازار کار",
+  "description": "گل ارن (GoalEarn.ir)؛ برنامه‌های خصوصی تخصصی و مسیر جامع آمادگی شغلی برای ورود و ارتقا در بازار کار ایران با همراهی منتورهای با تجربه.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
